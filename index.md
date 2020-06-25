@@ -8,15 +8,13 @@
 
 ### Обо мне
 
-Привет! Я [Егор](https://egoronline.github.io), я пишу истории с котятами. Эти котята не выдуманные персонажи - они действительно существуют. 
-
-Я буду очень рад, если вы [подпишитесь на истории в Teletype](https://teletype.in/@marusia_marsik)
+Привет! Мы - команда отважных котят-путешественников, и живём мы в Нарьян-Маре. Будем очень рады, если подпишитесь на наш [Telegram-канал](tg://resolve?domain="marta_i_marsik_i_eshe_mordovorot)
 
 ### Способы связи
 
 Эл. почта: <belka.marsik@yandex.ru>
 
-Telegram: [@egor4423](https://t.me/egor4423)
+Telegram: [@egor4423](tg://resolve?domain=egor4423)
 
 <meta 
 	name="sputnik-verification" 
