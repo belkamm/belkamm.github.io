@@ -6,7 +6,7 @@
 
 [![Альтернативный текст](92F6930D-C33D-4090-B7B0-B3C4D325A6F2.jpeg)](https://teletype.in/@marusia_marsik/DHFyQrA0Q)
 
-### Обо мне
+### Кто мы такие?
 
 Привет! Мы - команда отважных котят-путешественников, и живём мы в Нарьян-Маре. Будем очень рады, если подпишитесь на наш [Telegram-канал](tg://resolve?domain="marta_i_marsik_i_eshe_mordovorot)
 
