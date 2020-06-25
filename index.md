@@ -8,13 +8,13 @@
 
 ### Кто мы такие?
 
-Привет! Мы - команда отважных котят-путешественников, и живём мы в Нарьян-Маре. Будем очень рады, если подпишитесь на наш [Telegram-канал](tg://resolve?domain="marta_i_marsik_i_eshe_mordovorot)
+Привет! Мы - команда отважных котят-путешественников, и живём мы в Нарьян-Маре. Будем очень рады, если подпишитесь на наш [Telegram-канал](https://t.me/marta_i_marsik_i_eshe_mordovorot)
 
 ### Способы связи
 
 Эл. почта: <belka.marsik@yandex.ru>
 
-Telegram: [@egor4423](tg://resolve?domain=egor4423)
+Telegram: [@egor4423](https://t.me/egor4423)
 
 <meta 
 	name="sputnik-verification" 
