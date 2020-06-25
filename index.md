@@ -29,5 +29,4 @@ Telegram: [@egor4423](https://t.me/egor4423)
            j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
            var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
        })(document, "script", document.location.protocol);
-    </script>
-    <span id="sputnik-informer"></span>
+    </script><span id="sputnik-informer"></span>
