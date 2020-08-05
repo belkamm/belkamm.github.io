@@ -24,7 +24,7 @@ Telegram: [@egor4423](https://t.me/egor4423)
 <script>
 	function go() {
 if(confirm('Закрывая это окно, вы соглашаетесь с тем, что Администратор имеет право не вознаграждать за донаты. Но это только иногда, и деньги за это отправляются обратно (с вычетом коммисии'))
-location.href = 'http://google.com';
+location.href = 'https://vk.me/moneysend/to/5vFf';
 
 res.innerHTML = res.innerHTML+'не пошли.. ';
 return false;
