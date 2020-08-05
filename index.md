@@ -21,6 +21,19 @@ Telegram: [@egor4423](https://t.me/egor4423)
 	content="V6ZkCWOWa7ZDGY0x"
 />
 
+<script>
+	function go() {
+if(confirm('Закрывая это окно, вы соглашаетесь с тем, что Администратор имеет право не вознаграждать за донаты. Но это только иногда, и деньги за это отправляются обратно (с вычетом коммисии'))
+location.href = 'http://google.com';
+
+res.innerHTML = res.innerHTML+'не пошли.. ';
+return false;
+}
+q.onclick = go;
+
+document.write("<input type='button' value='Котятам на выплачивание кредита на Toyota Hilux' onclick='go();' />")   
+</script>
+
 <script type="text/javascript">
        (function(d, t, p) {
            var j = d.createElement(t); j.async = true; j.type = "text/javascript";
